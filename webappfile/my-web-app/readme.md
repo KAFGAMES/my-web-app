@@ -109,3 +109,14 @@ connection.connect((err) => {
 クエリの実行: 接続が成功したら、データベースに対してクエリを実行し、データを取得・挿入するコードを作成できます。
 
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+
+MAC
+
+cd Applications/webdevelope/my-web-app/webappfile/my-web-app
+git add .
+git commit -m "Your commit message"
+git push origin main
+
+
+
